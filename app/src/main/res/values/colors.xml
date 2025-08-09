@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Updated purple palette -->
+    <color name="purple_200">#FF9C7BFF</color>  <!-- Lighter purple -->
+    <color name="purple_500">#FF6A1B9A</color>  <!-- Deep purple -->
+    <color name="purple_700">#FF4A148C</color>  <!-- Dark purple -->
+
+    <!-- Updated teal palette -->
+    <color name="teal_200">#FF80DEEA</color>    <!-- Light teal -->
+    <color name="teal_700">#FF00838F</color>    <!-- Dark teal -->
+
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Updated transaction colors -->
+    <color name="income_green">#2E7D32</color>  <!-- Darker green -->
+    <color name="expense_red">#C62828</color>   <!-- Darker red -->
+    <color name="gray_neutral">#616161</color>  <!-- Darker gray -->
+
+    <!-- Updated navigation colors -->
+    <color name="accent">@color/teal_700</color>  <!-- Using darker teal -->
+    <color name="inactive">#BDBDBD</color>         <!-- Lighter gray for inactive state -->
+</resources>
