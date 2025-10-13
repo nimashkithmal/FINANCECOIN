@@ -189,7 +189,7 @@ This project is developed as part of academic coursework (MAD - Mobile Applicati
 
 ## 👨‍💻 Developer
 
-**IT23247086** - Made with ❤️ using Kotlin
+**IT23225138** - Made with ❤️ using Kotlin
 
 ---
 
