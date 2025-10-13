@@ -155,25 +155,6 @@ app/
 - Visual progress indicators
 - Budget alerts and notifications
 
-## 🎯 Usage
-
-1. **First Launch**: Register a new account or login
-2. **Set Budget**: Configure your monthly budget in settings
-3. **Add Transactions**: Record your income and expenses
-4. **Monitor Progress**: Check dashboard for budget status
-5. **Analyze Spending**: Use analytics to understand patterns
-6. **Manage Budget**: Adjust limits and track progress
-
-## 🔮 Future Enhancements
-
-- [ ] Export data to CSV/PDF
-- [ ] Recurring transaction support
-- [ ] Multiple currency support
-- [ ] Goal setting and tracking
-- [ ] Bill reminders
-- [ ] Cloud backup and sync
-- [ ] Widget support
-- [ ] Voice input for transactions
 
 ## 🤝 Contributing
 
