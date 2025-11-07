@@ -32,7 +32,7 @@
                     android:layout_width="80dp"
                     android:layout_height="80dp"
                     android:contentDescription="Profile Picture"
-                    android:src="@drawable/nimash"
+                    android:src="@drawable/ic_person"
                     android:background="@drawable/circle_background"
                     android:padding="12dp" />
 

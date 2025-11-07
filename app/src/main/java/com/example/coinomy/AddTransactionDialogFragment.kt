@@ -9,6 +9,7 @@ import android.widget.EditText
 import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.TextView
+import androidx.core.os.BundleCompat
 import androidx.fragment.app.DialogFragment
 import java.util.Date
 
@@ -40,7 +41,7 @@ class AddTransactionDialogFragment : DialogFragment() {
         arguments?.let {
             transactionType = TransactionType.valueOf(it.getString(ARG_TYPE, TransactionType.EXPENSE.name))
             if (it.containsKey(ARG_TRANSACTION)) {
-                editingTransaction = it.getParcelable(ARG_TRANSACTION)
+                editingTransaction = BundleCompat.getParcelable(it, ARG_TRANSACTION, TransactionData::class.java)
             }
         }
 
