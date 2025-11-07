@@ -10,7 +10,7 @@ FinanceCoin is a comprehensive personal finance management Android application b
 
 ## ✨ Features
 
-### 🔐 User Authentication
+#### 🔐 User Authentication
 - Secure login and registration system
 - User profile management
 - Session management
